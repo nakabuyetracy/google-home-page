@@ -1,0 +1,71 @@
+.centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    padding: 20px;
+    color: black;
+    border: none;
+    font-size: 16px;
+    border-radius: 20px;
+}
+#profile{
+    float:right;
+    border-radius: 100%;
+    margin-left: 50px;
+    margin-bottom: 200px;
+    margin-top: 0px;
+}
+h1{
+    float: right;
+    margin-left: 30px;
+    font-size: 10px;
+}
+input[type='text']{
+    display: block;
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    color:black;
+    width: 50%;
+    padding: 10px;
+
+    border-radius: 20px;
+    
+}
+span{
+text-decoration: none;
+}
+.content{
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+.tracy{
+    background-color: rgb(250, 244, 244);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 300px;
+    text
+}
+
+
+a[class="toc"]{
+    padding-left: 20px;
+    float: right;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+    
