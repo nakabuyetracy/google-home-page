@@ -5,7 +5,7 @@
 }
 
 button{
-    padding: 20px;
+    padding: 10px;
     color: black;
     border: none;
     font-size: 16px;
@@ -29,8 +29,8 @@ input[type='text']{
     margin-left: auto;
     margin-right: auto;
     color:black;
-    width: 50%;
-    padding: 10px;
+    width: 40%;
+    padding:10px;
 
     border-radius: 20px;
     
@@ -46,11 +46,11 @@ text-decoration: none;
 }
 
 .tracy{
-    background-color: rgb(250, 244, 244);
+    background-color:rgb(216, 207, 207);
     margin-left: 300px;
     margin-right: 300px;
     margin-top: 300px;
-    text
+    font-size: 15px;
 }
 
 
@@ -58,10 +58,13 @@ a[class="toc"]{
     padding-left: 20px;
     float: right;
     text-decoration: none;
+    color: black;
 }
 a{
     text-decoration: none;
 }
+
+
 
 
 
